@@ -28,7 +28,7 @@ npm run format
 npm run lint
 ```
 
-- For running tests
+- For running tests (make sure that backend is running else tests will fail)
 ```
 npm test
 ```
@@ -72,3 +72,9 @@ flask --app app run
 ```
 python -m pytest
 ```
+
+## Project
+
+- Used `React` for the frontend and various libraries
+- Used `Flask` for backend
+- Data normalization: `PostgreSQL` for database
