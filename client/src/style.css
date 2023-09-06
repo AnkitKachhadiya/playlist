@@ -1,0 +1,13 @@
+.nav-link {
+    text-decoration: none;
+    color: white;
+    margin: 0 3rem;
+}
+
+.nav-bar {
+    justify-content: center;
+}
+
+.nav-bar-wrapper {
+    margin-bottom: 5rem;
+}
